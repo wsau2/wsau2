@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+CS @ [UMass Amherst](https://www.cics.umass.edu/)
+
+Email: [wsaulnier@umass.edu](mailto:wsaulnier@umass.edu)
+
 <!--
 **wsau2/wsau2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
