@@ -4,6 +4,10 @@
 
 ### Email: [wsaulnier@umass.edu](mailto:wsaulnier@umass.edu)
 
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wsau2&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **wsau2/wsau2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
